@@ -1,1 +1,1 @@
-Sitemap: https://aiformds.github.io/fastpage/sitemap.xml
+Sitemap: https://aiformds.com/sitemap.xml
