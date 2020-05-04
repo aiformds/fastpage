@@ -1,1 +1,1 @@
-Sitemap: https://aiformds.com/blog/sitemap.xml
+Sitemap: https://aiformds.com/sitemap.xml
